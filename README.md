@@ -18,7 +18,7 @@ This project develops a system for recognizing Vietnamese handwritten text using
 - **Matplotlib & Seaborn**: Visualization of training results and metrics.
 
 ## Dataset
-The model is trained on a dataset of Vietnamese handwritten images (e.g., from Kaggle or a custom source). The data is split into:
+The model is trained on a dataset of Vietnamese handwritten images. The data is split into:
 
 - **Training**: ~82,432 samples
 - **Validation**: ~10,368 samples
@@ -47,3 +47,7 @@ The model is trained on a dataset of Vietnamese handwritten images (e.g., from K
 - OpenCV
 - Matplotlib
 - Seaborn
+
+## Acknowledgments
+- Inspired by handwriting recognition research and Kaggle community contributions.
+- Dataset sourced from [Google Drive Handwriting Images Dataset](https://drive.google.com/file/d/15ZECOsDc8bITa5nDLwZo8f4pczSfAEg8/view?usp=sharing).
